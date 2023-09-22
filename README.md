@@ -5,7 +5,7 @@ Ter instalado Node.js em seu PC.
 #RODAR O PROJETO#
 
 Para rodar o projeto descompacte a pasta clima-app que contém o código fonte.
-Dentro de clima-app, pressione a tecla SHIFT e dê um clique com o botão direito do mouse. No menu que aparecerá, selecione abrir janela de comando aqui ou algo paredido. Caso prefira, abra o cmd e use o comando cd caminho-do-projeto para navegar até o diretório do projeto React.
+Dentro de clima-app, pressione a tecla SHIFT e dê um clique com o botão direito do mouse. No menu que aparecerá, selecione abrir janela de comando aqui ou algo semelhante. Caso prefira, abra o cmd e use o comando cd caminho-do-projeto para navegar até o diretório do projeto React.
 
 Instale as Dependências:
 Antes de rodar o projeto, certifique-se de que todas as dependências estejam instaladas. No diretório do projeto, execute o seguinte comando para instalar as dependências listadas no arquivo package.json: npm install
