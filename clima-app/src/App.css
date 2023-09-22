@@ -1,0 +1,33 @@
+.clima-app {
+  background-size: cover;
+  background-attachment: fixed;
+  background-image: url(./img/home.jpg);
+  background-repeat: no-repeat;
+}
+.info {
+  /*width: 20rem;
+  background-color: #f0e6e9;
+  border: 1px solid rgba(255, 255, 255, 0);
+  border-radius: 1.25rem;*/
+  min-width: 18rem;
+  box-shadow: 1px 1px 35px #212529;
+  /*opacity: 0.8;*/
+  background-color: rgb(97 97 105 / 50%);
+  border: 1px solid rgb(0 0 0 / 10%);
+}
+.cidade {
+  text-transform: uppercase;
+}
+.descricao {
+  text-transform: capitalize;
+}
+footer {
+  /*background-color: #343a40;
+  color: #fff;
+  text-align: center;
+  padding: 10px 0;*/
+  position: absolute;
+  /*line-height: 4;*/
+  bottom: 0;
+  width: 100%;
+}
